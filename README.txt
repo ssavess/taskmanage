@@ -1,7 +1,5 @@
 README
 
-spring tool suit
+Small project using STS (spring tool suit) where the aim is to contain users and their activities. At this moment, the project is showing all users and all activities with an edit and remove button. The edit button is not programmed as also contact and activity banner.
 
-pequeno projeto de exemplo com a ferramenta STS, onde o objetivo é conter utilizadores e as suas activities. De momento mostra todos os utilizadores e atividades com o botao de edicao e remocao onde o botao de edicao nao esta programado como o separador contacto ou activity.
-
-foi utilizado uma base de dados em SQL local no computador
+An SQL data base as used in local computer.
